@@ -1,4 +1,4 @@
-# EDA_pythonproject
+# EDA on Global Terrorism Database
 
 # In this notebook you will find:
 
